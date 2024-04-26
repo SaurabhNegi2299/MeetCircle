@@ -1,1 +1,1 @@
-I have created a video conferencing application by using java # MeetCircle
+I have created a Video Conferencing application by using Java # MeetCircle
